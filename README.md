@@ -1,5 +1,15 @@
 # Code Editing Agent
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/promacanthus/code-editing-agent)](https://goreportcard.com/report/github.com/promacanthus/code-editing-agent)
+[![Go Reference](https://pkg.go.dev/badge/github.com/promacanthus/code-editing-agent.svg)](https://pkg.go.dev/github.com/promacanthus/code-editing-agent)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/promacanthus/code-editing-agent)](https://github.com/promacanthus/code-editing-agent)
+[![License](https://img.shields.io/github/license/promacanthus/code-editing-agent)](LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/promacanthus/code-editing-agent)](https://github.com/promacanthus/code-editing-agent/commits/main)
+[![security: gosec](https://img.shields.io/badge/security-gosec-blue.svg)](https://github.com/securecodewarrior/gosec)
+[![GitHub stars](https://img.shields.io/github/stars/promacanthus/code-editing-agent?style=social)](https://github.com/promacanthus/code-editing-agent)
+[![GitHub forks](https://img.shields.io/github/forks/promacanthus/code-editing-agent?style=social)](https://github.com/promacanthus/code-editing-agent)
+
+
 This project is a Go-based code editing agent that uses the DeepSeek language model to interact with your codebase. It's inspired by the tutorial [How to Build an Agent](https://ampcode.com/how-to-build-an-agent), but it has been adapted to use the DeepSeek API instead of the Claude API.
 
 ## Architecture
