@@ -2,6 +2,10 @@
 
 This project is a Go-based code editing agent that uses the DeepSeek language model to interact with your codebase. It's inspired by the tutorial [How to Build an Agent](https://ampcode.com/how-to-build-an-agent), but it has been adapted to use the DeepSeek API instead of the Claude API.
 
+## Architecture
+
+![arch](arch.png)
+
 ## Features
 
 * **Interactive Chat:** Chat with the agent to give it instructions.
